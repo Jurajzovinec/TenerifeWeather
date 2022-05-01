@@ -1,0 +1,29 @@
+{
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.05,
+    "feels_like": 24.86,
+    "temp_min": 21.12,
+    "temp_max": 26.34,
+    "pressure": 1021,
+    "humidity": 48
+  },
+  "visibility": 10000,
+  "wind": { "speed": 11.32, "deg": 90 },
+  "clouds": { "all": 0 },
+  "dt": 1651414809,
+  "sys": {
+    "type": 2,
+    "id": 2046017,
+    "country": "ES",
+    "sunrise": 1651386416,
+    "sunset": 1651434051
+  },
+  "timezone": 3600,
+  "id": 2514741,
+  "name": "Los Cristianos",
+  "cod": 200
+}
